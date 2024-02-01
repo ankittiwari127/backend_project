@@ -1,7 +1,7 @@
 First of all to run this project we  have to  install node modules by npm i
 Link of this project in github  https://github.com/ankittiwari127/backend_project/
 Name of project in github is backend project 
-Link of github reposititory of this project is 
+To run this project in vs code or in command prompt we have to write npm run dev
 This project structure is index.js  --> routes -->controllers-->models
 Routes contains all the apis 
 Controllers contain the code and functioning of all the api rountes .It consists of different files inside it 
