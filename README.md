@@ -4,9 +4,9 @@ Name of project in github is backend project
 Link of github reposititory of this project is 
 This project structure is index.js  --> routes -->controllers-->models
 Routes contains all the apis 
-Controllers contain the code and functioning of all the api rountes .Is consists of different files inside it 
-config folder consist of connect of database.
-Differts routes of this product is
+Controllers contain the code and functioning of all the api rountes .It consists of different files inside it 
+config folder consist of connection of database.
+Different routes of this product is
 you have to run this api in postman 
 TO create product http://localhost:4000/api/v1/createproduct
 To  delete product we have to give id of that product http://localhost:4000/api/v1/deleteproduct/id of product
